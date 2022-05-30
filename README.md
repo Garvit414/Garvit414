@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garvit414
 - 👀 I’m in first year pursuing my Bachelors in Computer Science And Engineering.
-- 🌱 I’m currently learning DSA and Development.
+- 🌱 I’m currently learning Development.
 - 📫 You can reach me by this mail Id garvitagarwal.kiet@gmail.com 
 
 <!---
