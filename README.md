@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Garvit414
+- 👋 Hi, I’m Garvit Agarwal.
 - 👀 I’m in first year pursuing my Bachelors in Computer Science And Engineering.
 - 🌱 I’m currently learning Development.
 - 📫 You can reach me by this mail Id garvitagarwal.kiet@gmail.com 
