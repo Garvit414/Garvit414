@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garvit Agarwal.
-- 👀 I’m in first year pursuing my Bachelors in Computer Science And Engineering.
+- 👀 I’m in second year pursuing my Bachelors in Computer Science And Engineering.
 - 🌱 I’m currently learning Machine Learning.
 - ✨I’m looking to collaborate on any project.
 - 📫 You can reach me by this mail Id garvitagarwal.kiet@gmail.com 
