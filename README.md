@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning**
 
-- 👯 I’m looking to collaborate on **on exciting Projects and Hackathons**
+- 👯 I’m looking to collaborate on **exciting Projects and Hackathons**
 
 - 📫 How to reach me **garvitagarwal.kiet@gmail.com**
 
