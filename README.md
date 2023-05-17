@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit414&label=Profile%20views&color=0e75b6&style=flat" alt="garvit414" /> </p>
 
-- 🌱 I’m currently exploring **Machine Learning**
+- 🌱 I’m currently exploring **Deep Learning**
 
 - 👯 I’m looking to collaborate on exciting **Projects and Hackathons**
 
