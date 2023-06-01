@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garvit Agarwal</h1>
+<h1 align="center">Hi👋, I'm Garvit Agarwal</h1>
 <h3 align="center">An Enthusiastic Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit414&label=Profile%20views&color=0e75b6&style=flat" alt="garvit414" /> </p>
