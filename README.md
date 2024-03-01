@@ -11,7 +11,7 @@
  - 🌱 I’m currently learning DSA
  - 👯 I’m looking to collaborate on exciting projects and Hackathons
  - 💬 Ask me about development
- - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/garvit-agarwal-675b81229/)
+ - 📫 How to reach me: garvitagarwal.kiet@gmail.com
  
  <hr>
  
